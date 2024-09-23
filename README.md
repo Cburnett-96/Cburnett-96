@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  ## Hi there 👋
+  </p>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-six-nu-97.vercel.app/api?username=Cburnett-96&rank_icon=github&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true">
   <img height="50%" width="auto" src ="https://github-readme-stats-six-nu-97.vercel.app/api/top-langs/?username=Cburnett-96&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
